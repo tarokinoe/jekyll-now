@@ -287,3 +287,51 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+/*********************/
+/* BOOKSHELF / SECTIONS */
+/*********************/
+
+.books {
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.books__item {
+    display: block;
+    width: 240px;
+    padding: 10px;
+}
+
+.book {
+    display: block;
+    position: relative;
+}
+.book__title{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.75);
+    color: #ddd;
+    font-weight: bold;
+    text-align: center;
+    padding: 75px 4px 4px 4px;
+}
+.book__title span{ 
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+}
+.book img{
+    display: block;
+}
+.book:hover img {
+    box-shadow: 0 0 5px #000;
+}
+.book:hover .book__title{
+    display: block;
+}

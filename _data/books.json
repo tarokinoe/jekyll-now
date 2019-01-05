@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Петр Первый",
+		"author": "Алексей Толстой",
+		"img": "bookshelf/petr1.jpg",
+	},
+	{
+		"name": "Понедельник начинается в субботу",
+		"author": "Аркадий и Борис Стругацкие",
+		"img": "bookshelf/monday_begins_on_saturday.jpg",
+	},
+	{
+		"name": "Белый отряд",
+		"author": "Артур Конан Дойль",
+		"img": "bookshelf/the_white_company.jpg",
+	},
+	{
+		"name": "Яма",
+		"author": "Александр Куприн",
+		"img": "bookshelf/kuprin_yama.jpeg",
+	},
+	{
+		"name": "Юконский ворон",
+		"author": "Сергей Марков",
+		"img": "bookshelf/yukon_raven.jpg",
+	},
+	{
+		"name": "Князь серебряный",
+		"author": "Алексей Толстой",
+		"img": "bookshelf/knyaz_serebryanniy.jpg",
+	}
+]

@@ -1,0 +1,23 @@
+---
+layout: page
+title: Bookshelf
+permalink: /bookshelf/
+---
+<div>
+  Я прочитал:
+</div>
+<ul class="books">
+  {% for item in site.data.books %}
+    <li class="books__item">
+      <a href="#" class="book">
+        <img src="/images/{{ item.img }}" alt="{{ item.author }} - {{ item.name }}">
+        <div class="book__title">
+          {{ item.name }}
+          <span>
+            {{ item.author }}
+          </span>          
+        </div>     
+      </a>
+    </li>
+  {% endfor %}
+</ul>
