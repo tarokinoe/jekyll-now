@@ -1,32 +1,38 @@
 [
-	{
-		"name": "Петр Первый",
-		"author": "Алексей Толстой",
-		"img": "bookshelf/petr1.jpg",
-	},
-	{
-		"name": "Понедельник начинается в субботу",
-		"author": "Аркадий и Борис Стругацкие",
-		"img": "bookshelf/monday_begins_on_saturday.jpg",
-	},
-	{
-		"name": "Белый отряд",
-		"author": "Артур Конан Дойль",
-		"img": "bookshelf/the_white_company.jpg",
-	},
-	{
-		"name": "Яма",
-		"author": "Александр Куприн",
-		"img": "bookshelf/kuprin_yama.jpeg",
-	},
-	{
-		"name": "Юконский ворон",
-		"author": "Сергей Марков",
-		"img": "bookshelf/yukon_raven.jpg",
-	},
-	{
-		"name": "Князь серебряный",
-		"author": "Алексей Толстой",
-		"img": "bookshelf/knyaz_serebryanniy.jpg",
-	}
+    {
+        "name": "Понедельник начинается в субботу",
+        "author": "Аркадий и Борис Стругацкие",
+        "img": "bookshelf/Optimized-monday_begins_on_saturday.jpg",
+    },
+    {
+        "name": "Петр Первый",
+        "author": "Алексей Толстой",
+        "img": "bookshelf/Optimized-petr1.jpg",
+    },
+    {
+        "name": "Белый отряд",
+        "author": "Артур Конан Дойль",
+        "img": "bookshelf/Optimized-the_white_company.jpg",
+    },
+    {
+        "name": "Яма",
+        "author": "Александр Куприн",
+        "img": "bookshelf/Optimized-kuprin_yama.jpeg",
+    },
+    {
+        "name": "Юконский ворон",
+        "author": "Сергей Марков",
+        "img": "bookshelf/Optimized-yukon_raven.jpg",
+    },
+    {
+        "name": "Князь серебряный",
+        "author": "Алексей Толстой",
+        "img": "bookshelf/Optimized-knyaz_serebryanniy.jpg",
+    },
+    {
+        "name": "Цель. Процесс непрерывного совершенствования",
+        "author": " Элия М. Гольдратт, Джеф Кокс",
+        "img": "bookshelf/Optimized-the_goal.jpg",
+        "readed": "2018.01.21"
+    }
 ]

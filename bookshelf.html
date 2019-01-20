@@ -7,7 +7,7 @@ permalink: /bookshelf/
   Я прочитал:
 </div>
 <ul class="books">
-  {% for item in site.data.books %}
+  {% for item in site.data.books reversed %}
     <li class="books__item">
       <a href="#" class="book">
         <img src="/images/{{ item.img }}" alt="{{ item.author }} - {{ item.name }}">
