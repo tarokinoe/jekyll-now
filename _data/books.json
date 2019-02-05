@@ -31,8 +31,14 @@
     },
     {
         "name": "Цель. Процесс непрерывного совершенствования",
-        "author": " Элия М. Гольдратт, Джеф Кокс",
+        "author": "Элия М. Гольдратт, Джеф Кокс",
         "img": "bookshelf/Optimized-the_goal.jpg",
         "readed": "2018.01.21"
+    },
+    {
+        "name": "Воспоминания о войне",
+        "author": "Николай Никулин",
+        "img": "bookshelf/Optimized-vospomimamiya_o_voine_Nikulin.jpg",
+        "readed": "2019.02.05"
     }
 ]
